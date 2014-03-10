@@ -1,6 +1,6 @@
 require 'formula'
 
-class idevicerestore < Formula
+class Idevicerestore < Formula
   head 'https://github.com/libimobiledevice/idevicerestore.git'
 
   depends_on 'make' => :build

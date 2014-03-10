@@ -6,7 +6,7 @@ class Idevicerestore < Formula
   # depends_on 'make' => :build
   
   def install
-    system "./configure"
+    system "configure"
     system "make"
     system "make install"
   end

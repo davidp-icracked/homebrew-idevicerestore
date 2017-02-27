@@ -1,4 +1,4 @@
-homebrew-websocketpp
+homebrew-idevicerestore
 ====================
 
 Thanks to [idevicerestore](https://github.com/libimobiledevice/idevicerestore "Restore/upgrade firmware of iOS devices")

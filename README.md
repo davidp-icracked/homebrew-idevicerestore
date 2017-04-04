@@ -1,7 +1,7 @@
 homebrew-idevicerestore
 ====================
 
-Thanks to [idevicerestore](https://github.com/libimobiledevice/idevicerestore "Restore/upgrade firmware of iOS devices")
+[idevicerestore project](https://github.com/libimobiledevice/idevicerestore "Restore/upgrade firmware of iOS devices")
 
 Usage.
 -----------------
